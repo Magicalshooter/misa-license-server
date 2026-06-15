@@ -1,4 +1,16 @@
 {
   "version": 1,
-  "licenses": []
+  "licenses": [
+    {
+      "product": "VRCMT",
+      "hash": "df3b51c276b41ef238a3d31433e91f08540054b2e3e54a993ddacd2ada1a04c3",
+      "platform": "booth",
+      "order_id": "TEST001",
+      "status": "test",
+      "issued_at": "2026-06-15T14:56:50+09:00",
+      "expires": null,
+      "max_devices": null,
+      "note": ""
+    }
+  ]
 }
