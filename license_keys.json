@@ -11,6 +11,17 @@
       "expires": null,
       "max_devices": null,
       "note": ""
+    },
+    {
+      "product": "OBSMT",
+      "hash": "64be24de5fed7e460201e9193385edab2e7365d1b875b8b30f1cb91d9289afc2",
+      "platform": "booth",
+      "order_id": "TEST001",
+      "status": "test",
+      "issued_at": "2026-06-15T16:16:20+09:00",
+      "expires": null,
+      "max_devices": null,
+      "note": ""
     }
   ]
 }
