@@ -35,6 +35,19 @@
       "note": "",
       "buyer_name": "るりち",
       "buyer_contact": ""
+    },
+    {
+      "product": "OBSMT",
+      "hash": "8adaad2e8d4d7ad3eaf758aca9acc1382d6bccb04a41f5e68b2dbdeda1f6062d",
+      "platform": "booth",
+      "order_id": "TEST002",
+      "status": "active",
+      "issued_at": "2026-06-17T13:55:57+09:00",
+      "expires": null,
+      "max_devices": null,
+      "note": "",
+      "buyer_name": "るりち",
+      "buyer_contact": ""
     }
   ]
 }
