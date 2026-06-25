@@ -61,6 +61,17 @@
       "note": "",
       "buyer_name": "しはるなつ",
       "buyer_contact": ""
+    },
+    {
+      "product": "VRCMT",
+      "hash": "4f5fb28227d4d1fb7d487d3fe586880fd3cc378b38cfe63991603b83ece6577c",
+      "platform": "booth",
+      "order_id": "0000",
+      "status": "active",
+      "issued_at": "2026-06-25T17:06:14+09:00",
+      "expires": null,
+      "max_devices": null,
+      "note": ""
     }
   ]
 }
