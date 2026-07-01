@@ -94,6 +94,17 @@
       "expires": null,
       "max_devices": null,
       "note": ""
+    },
+    {
+      "product": "VRCMT",
+      "hash": "b5d971c37bb4765f92d4528f7957992ffd43c42005887a2fad16f8d84796580e",
+      "platform": "booth",
+      "order_id": "79541783",
+      "status": "active",
+      "issued_at": "2026-07-01T12:23:05+09:00",
+      "expires": null,
+      "max_devices": null,
+      "note": ""
     }
   ]
 }
